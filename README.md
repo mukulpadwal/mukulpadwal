@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mukulpadwal786@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17bfj9XWSmJf2A3Zd1818jk4l9FL3DOO8/view?usp=share_link](https://drive.google.com/file/d/17bfj9XWSmJf2A3Zd1818jk4l9FL3DOO8/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bIDzCeSjkVEq-oMNUz0v9-XvIScUSOMT/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
