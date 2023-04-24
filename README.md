@@ -64,10 +64,14 @@
 
 <div align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mukulpadwal&theme=dark&background=000000" alt="mukulpadwal" />
-  &nbsp;
+</div>
+&nbsp;
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&theme=dark&background=000000" alt="mukulpadwal" />
 </div>
 &nbsp;
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&theme=dark&background=000000" alt="mukulpadwal" />
 </div>
+
+---
