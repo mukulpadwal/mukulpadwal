@@ -5,10 +5,10 @@
     <a href="https://www.linkedin.com/in/mukulpadwal">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+<!--     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/Instagram-pruple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="your-twitter-URL">
+    </a> -->
+    <a href="https://twitter.com/padwalmukul">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
