@@ -62,9 +62,9 @@
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mukulpadwal&theme=dark&background=000000)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mukulpadwal&theme=dark&background=000000)]()
 
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&show_icons=true&locale=en&layout=compact&theme=dark&background=000000)
+[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&show_icons=true&locale=en&layout=compact&theme=dark&background=000000)]()
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mukulpadwal&show_icons=true&locale=en&theme=dark&background=000000")
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=mukulpadwal&show_icons=true&locale=en&theme=dark&background=000000")]()
 
