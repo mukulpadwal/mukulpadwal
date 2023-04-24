@@ -71,7 +71,7 @@
 </div>
 &nbsp;
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&theme=dark&background=000000" alt="mukulpadwal" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&theme=dark&background=000000&layout=compact" alt="mukulpadwal" />
 </div>
 
 ---
