@@ -69,15 +69,15 @@
 ### :fire: My Stats :
 
 <div align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mukulpadwal&theme=dark&background=000000" alt="mukulpadwal" />
+  <img decoding="async" loading="lazy" src="http://github-readme-streak-stats.herokuapp.com?user=mukulpadwal&theme=dark&background=000000" alt="mukulpadwal" />
 </div>
 &nbsp;
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&theme=dark&background=000000&show_icons=true" alt="mukulpadwal" />
+  <img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&theme=dark&background=000000&show_icons=true" alt="mukulpadwal" />
 </div>
 &nbsp;
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&theme=dark&background=000000&layout=compact" alt="mukulpadwal" />
+  <img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&theme=dark&background=000000&layout=compact" alt="mukulpadwal" />
 </div>
 
 ---
