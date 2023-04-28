@@ -69,7 +69,7 @@
 ### :fire: My Stats :
 
 <div align="left">
-  <img decoding="async" loading="lazy" src="http://github-readme-streak-stats.herokuapp.com?user=mukulpadwal" alt="mukulpadwal" />
+  <img decoding="async" loading="lazy" src="http://github-readme-streak-stats.herokuapp.com?user=mukulpadwal&theme=dark" alt="mukulpadwal" />
 </div>
 &nbsp;
 <div align="left">
