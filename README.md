@@ -73,11 +73,11 @@
 </div>
 &nbsp;
 <div align="left">
-  <img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&show_icons=true" alt="mukulpadwal" />
+  <img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&show_icons=true&theme=dark" alt="mukulpadwal" />
 </div>
 &nbsp;
 <div align="left">
-  <img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&layout=compact" alt="mukulpadwal" />
+  <img decoding="async" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&layout=compact&theme=dark" alt="mukulpadwal" />
 </div>
 
 ---
