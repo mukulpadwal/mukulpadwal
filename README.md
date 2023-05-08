@@ -70,11 +70,12 @@
 ### :fire: My Stats :
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulpadwal&theme=dark" alt="mukulpadwal" />
+  <img alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=mukulpadwal&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
 </div>
 &nbsp;
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&show_icons=true&locale=en&theme=dark" alt="mukulpadwal" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&show_icons=true&locale=en&theme=dark" alt="mukulpadwal" /> -->
+  <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mukulpadwal?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
 </div>
 &nbsp;
 <div align="left">
