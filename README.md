@@ -67,7 +67,7 @@
 ### :fire: My Stats :
 
 <div align="left">
-  <img alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=mukulpadwal&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
+  <img alt="GitHub Streak" height="180px" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulpadwal&theme=great-gatsby&mode=daily&date_format=M%20j[,%20Y]">
 </div>
 &nbsp;
 <div align="left">
