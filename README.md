@@ -71,7 +71,7 @@
 </div>
 &nbsp;
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&show_icons=true&locale=en&theme=dark&cardType=github&ring=D4AF37" alt="mukulpadwal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&show_icons=true&locale=en&theme=great-gatsby&cardType=github" alt="mukulpadwal" />
 <!--   <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mukulpadwal?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37"> -->
 </div>
 &nbsp;
