@@ -1,4 +1,6 @@
+<!-- This is the header section -->
 <div id="header" align="center">
+  <h1>Hi 👋, I'm Mukul Padwal</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
@@ -12,13 +14,13 @@
   
   <img src="https://komarev.com/ghpvc/?username=mukulpadwal&style=flat-square&color=blue" alt=""/>
   
-  <h1>Hi 👋, I'm Mukul Padwal</h1>
-  <h3>A passionate Full Stack Web Developer with strong technical skills, an eye for design and a commitment to delivering innovative, user‑friendly   software solutions.</h3>
-
+  #### A passionate **Full Stack Web Developer** with strong technical skills, an eye for design and a commitment to delivering innovative, user‑friendly   software solutions.
 </div>
 
+<!-- This is the gif section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHoxcWU1ajZ2bzRlcTBnN3JuaXBleTRncXk4bWt2ZWIyN3YyOTFsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="200" />
 </div>
 
 ---
@@ -66,18 +68,11 @@
 ---
 
 ### :fire: My Stats :
+<!-- This is the profile stats section -->
+<div>
+  [![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulpadwal&hide=stars&show_icons=true&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
 
-<div align="left">
-  <img alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com?user=mukulpadwal&theme=tokyonight-duo">
-</div>
-&nbsp;
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukulpadwal&show_icons=true&locale=en&theme=great-gatsby&cardType=github" alt="mukulpadwal" />
-<!--   <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mukulpadwal?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37"> -->
-</div>
-&nbsp;
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulpadwal&show_icons=true&locale=en&layout=compact&theme=dark" alt="mukulpadwal" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpadwal&layout=donut&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
 </div>
 
 ---
