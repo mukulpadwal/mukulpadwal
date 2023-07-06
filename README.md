@@ -77,15 +77,16 @@
 
 ---
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats : -->
 
 <!-- This is the profile stats section -->
-<div>
-  
+
+<details>
+  <summary><h3>:fire: My Stats :</h3></summary>
+
   [![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulpadwal&hide=stars&show_icons=true&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpadwal&layout=donut&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
-  
-</div>
-
+</details>
+    
 ---
