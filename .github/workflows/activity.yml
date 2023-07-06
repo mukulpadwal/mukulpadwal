@@ -11,6 +11,6 @@ jobs:
       contents: write
 
     steps:
-      - uses: mukulpadwal/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
