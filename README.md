@@ -68,11 +68,14 @@
 ---
 
 ### :fire: My Stats :
+
 <!-- This is the profile stats section -->
 <div>
+  
   [![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulpadwal&hide=stars&show_icons=true&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpadwal&layout=donut&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
+  
 </div>
 
 ---
