@@ -40,6 +40,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#567](https://github.com/akshitagupta15june/Moksh/issues/567) in [akshitagupta15june/Moksh](https://github.com/akshitagupta15june/Moksh)
+2. 🎉 Merged PR [#3](https://github.com/mukulpadwal/feast-fast/pull/3) in [mukulpadwal/feast-fast](https://github.com/mukulpadwal/feast-fast)
+3. 💪 Opened PR [#3](https://github.com/mukulpadwal/feast-fast/pull/3) in [mukulpadwal/feast-fast](https://github.com/mukulpadwal/feast-fast)
+<!--END_SECTION:activity-->
 
 ---
 
