@@ -37,6 +37,14 @@
 
 ---
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
