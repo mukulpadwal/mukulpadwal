@@ -14,7 +14,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=mukulpadwal&style=flat-square&color=blue" alt=""/>
   
-  #### A passionate **Full Stack Web Developer** with strong technical skills, an eye for design and a commitment to delivering innovative, user‑friendly   software solutions.
+  ### A passionate **Full Stack Web Developer** with strong technical skills, an eye for design and a commitment to delivering innovative, user‑friendly software solutions.
 </div>
 
 <!-- This is the gif section -->
