@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **mukulpadwal786@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yVGTC45uNp8NUGEExcceSU6R8HNw2mIE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yimyCGWXvwnuyOX-rFO-NJR40-Q4WhzY/view?usp=drive_link)
 
 ---
 
