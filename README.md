@@ -56,7 +56,7 @@
 
  <h3>:fire: My Stats :</h3>
 
-  [![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulpadwal&hide=stars&show_icons=true&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
+![mukulpadwal's Stats](https://github-readme-stats.vercel.app/api?username=mukulpadwal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![mukulpadwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukulpadwal&theme=vue-dark&hide_border=true)
 
