@@ -58,6 +58,8 @@
 
   [![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukulpadwal&hide=stars&show_icons=true&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
 
+![mukulpadwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukulpadwal&theme=vue-dark&hide_border=true)
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpadwal&layout=donut&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
 
     
