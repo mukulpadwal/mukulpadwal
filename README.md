@@ -60,7 +60,6 @@
 
 ![mukulpadwal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukulpadwal&theme=vue-dark&hide_border=true)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpadwal&layout=donut&theme=cobalt)](https://github.com/mukulpadwal/github-readme-stats)
+![mukulpadwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpadwal&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-    
 ---
