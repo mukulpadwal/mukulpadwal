@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 
-- 👨‍💻 All of my projects are available at [https://mukulpadwal.tech/projects](https://mukulpadwal.tech/projects)
+- 👨‍💻 All of my projects are available at [https://mukulpadwal.me/projects](https://mukulpadwal.me/projects)
 
 - 📝 I regularly write articles on [https://mukulpadwal.hashnode.dev/](https://mukulpadwal.hashnode.dev/)
 
