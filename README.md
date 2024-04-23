@@ -32,7 +32,7 @@
 
 - 📝 I regularly write articles on [https://mukulpadwal.hashnode.dev/](https://mukulpadwal.hashnode.dev/)
 
-- 📫 How to reach me **mukulpadwal786@gmail.com**
+- 📫 How to reach me **mukulpadwal.me@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xWgTcG0ChHW1mR5txBK4gvt4VK6WglwI/view)
 
